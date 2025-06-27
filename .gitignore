@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# PyCharm project files
+.idea/
+
+# macOS
+.DS_Store
+
+# SQLite or other local DBs (if any)
+*.db
+
+# Logs
+*.log
+
+# Coverage and test outputs
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# System files
+Thumbs.db
